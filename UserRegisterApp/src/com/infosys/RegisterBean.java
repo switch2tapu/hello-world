@@ -27,6 +27,6 @@ public class RegisterBean {
 		return password;
 	}
 	public void setPassword(String password) {
-		this.password = password;
+		this.password = password;//password
 	}
 }
