@@ -1,7 +1,7 @@
 package com.utility;
 
 public class UtilityBean {
-	//Hhkk
+	//H
 	String price;
 	String qunatity;
 	String itemtype;
